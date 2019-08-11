@@ -69,6 +69,11 @@ for i in range(len(list_app_names)):
 df3.to_excel("output.xlsx", index= False)
 ```
 
+## Execution
+There are 2 ways to run this:
+* __M-1: Unix OS__ - run the [`run.sh`](./run.sh)
+* __M-2: Windows OS__ - run the [`run.bat`](./run.bat)
+
 ## Output
 <p align="left">
   <img src="./images/output.png" alt="Test2" width="" height="">
